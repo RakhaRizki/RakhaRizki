@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP , Laravel**
 
-- 👨‍💻 All of my projects are available at [rakharizki.github.io](rakharizki.github.io)](https://rakharizki.github.io/)
+- 👨‍💻 All of my projects are available at [rakharizki.github.io](https://rakharizki.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@RakhaRizki](https://medium.com/@RakhaRizki)
 
