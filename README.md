@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakharizki" alt="rakharizki" /></a> </p>
 
-- 🌱 I’m currently learning **PHP , Laravel , Web Development , Database**
+- 🌱 I’m currently learning **PHP , Laravel , Web Development , Database , Backend**
 
 - 👨‍💻 All of my projects are available at [https://rakharizki.github.io/](https://rakharizki.github.io/)
 
