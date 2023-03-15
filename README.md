@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakha Nurrahma Rizki</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+<h3 align="center">Student in IDN Boarding School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakharizki&label=Profile%20views&color=0e75b6&style=flat" alt="rakharizki" /> </p>
 
