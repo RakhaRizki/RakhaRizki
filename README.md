@@ -51,10 +51,10 @@
 
 <br/><br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakharizki&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=888888&icon_color=0e75b6" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakharizki&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=888888&icon_color=0e75b6" height="150" />
-</div>
+</div> -->
 
 <div align="center">
   <br/>
