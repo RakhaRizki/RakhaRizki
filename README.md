@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rakha+Rizki+👋;Front-End+Developer;IDN+Boarding+School+Student;Love+Golang+%26+Express.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Rakha+Rizki+👋;Front-End+Dev+%40+MCSCorp;Telkom+University+Student;Love+Golang+%26+Express.js" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -24,21 +24,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  
   <br/><br/>
+  
   <samp>
-    "Transforming complex logic into <b>elegant</b> interfaces."
+    "Crafting seamless UI/UX at <b>MCSCorp</b> while pursuing degree at <b>Telkom University</b>."
     <br/>
-    Currently transitioning from <b>Laravel</b> to <b>Go & Microservices</b>.
+    Currently expanding my stack from <b>Laravel</b> to <b>Go & Microservices</b>.
   </samp>
+  
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🛠️  T E C H &nbsp; S T A C K</h3>
+  <h3>🛠️  T E C H &nbsp; S T A C K</h3>
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,figma,php,laravel,mysql" />
   <br/>
