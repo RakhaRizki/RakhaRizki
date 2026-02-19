@@ -1,69 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi,%20I'm%20Rakha%20Rizki&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Rakha%20Nurrahma%20Rizki&fontSize=60&animation=fadeIn&fontAlignY=45" width="100%" />
+  
+  <br/>
+
+  ### ⚡ Crafting Digital Experiences with Code & Logic
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakha-nurrahma-rizki-a7a45a248/)
+  [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rakharizki)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rakharizki_)
+  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:babanrakha@gmail.com)
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 </div>
 
-<div align="center">
-  <h3>🚀 Web Developer & Tech Enthusiast</h3>
-  <p><i>Building digital experiences from IDN Boarding School</i></p>
+<br/>
 
-  <a href="https://linkedin.com/in/rakha-nurrahma-rizki-a7a45a248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@rakharizki">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:babanrakha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-### ⚡ About Me
-- **Current Focus:** Transitioning from Laravel expert to **Express.js & Go** 🚀
-- **Writing:** Sharing tech insights and tutorials on **Medium** ✍️
-- **Learning:** Deep diving into Database Architecture & Scalable Systems.
-- **Projects:** Check out my portfolio at [rakharizki.github.io](https://rakharizki.github.io/)
-
----
-
-### 🛠 Tech Stack & Tools
-
-<table>
+<table border="0">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" width="180" alt="Backend" />
-      <p>Backend</p>
+    <td width="55%" valign="top">
+      <h2>🚀 Behind the Code</h2>
+      <p>I'm a passionate <b>Front-End Developer</b> from IDN Boarding School who loves turning complex problems into elegant, user-friendly interfaces. Currently evolving into a <b>Full-Stack Engineer</b>.</p>
+      <ul>
+        <li>🌱 Currently mastering <b>Go (Golang)</b> & <b>Express.js</b></li>
+        <li>💡 Expert in <b>Laravel</b> & <b>Modern CSS</b></li>
+        <li>✍️ Writing technical guides on <b>Medium</b></li>
+        <li>🌐 Portfolio: <a href="https://rakharizki.github.io/">rakharizki.github.io</a></li>
+      </ul>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" width="180" alt="Frontend" />
-      <p>Frontend</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql,aws,git,figma" width="180" alt="Others" />
-      <p>Others</p>
+    <td width="45%" valign="top">
+      <h2>🛠️ My Daily Stack</h2>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,laravel,nodejs,express,go,mysql,git,figma&perline=4" />
     </td>
   </tr>
 </table>
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakharizki&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakharizki&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakharizki&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakharizki&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
+  <h2>📈 Engineering Metrics</h2>
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rakharizki&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_border=true" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakharizki&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_border=true" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakharizki&theme=transparent&stroke=0e75b6&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6&hide_border=true" width="95%" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="left">
+        <img src="https://github-profile-trophy.vercel.app/?username=rakharizki&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=rakharizki&label=EXPLORERS+REACHED&color=0e75b6&style=flat-square" />
+  <br/>
+  <sub><i>Last updated: 2026</i></sub>
 </div>
