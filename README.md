@@ -1,57 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Rakha%20Nurrahma%20Rizki&fontSize=60&animation=fadeIn&fontAlignY=45" width="100%" />
-  
-  <br/>
-
-  ### ⚡ Crafting Digital Experiences with Code & Logic
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakha-nurrahma-rizki-a7a45a248/)
-  [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rakharizki)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rakharizki_)
-  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:babanrakha@gmail.com)
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=300&section=header&text=RAKHA%20RIZKI&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Front-End%20Engineer%20•%20Creative%20Developer%20•%20Tech%20Enthusiast&descSize=20&descAlignY=60" width="100%" />
 </div>
 
-<br/>
-
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>🚀 Behind the Code</h2>
-      <p>I'm a passionate <b>Front-End Developer</b> from IDN Boarding School who loves turning complex problems into elegant, user-friendly interfaces. Currently evolving into a <b>Full-Stack Engineer</b>.</p>
-      <ul>
-        <li>🌱 Currently mastering <b>Go (Golang)</b> & <b>Express.js</b></li>
-        <li>💡 Expert in <b>Laravel</b> & <b>Modern CSS</b></li>
-        <li>✍️ Writing technical guides on <b>Medium</b></li>
-        <li>🌐 Portfolio: <a href="https://rakharizki.github.io/">rakharizki.github.io</a></li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h2>🛠️ My Daily Stack</h2>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,laravel,nodejs,express,go,mysql,git,figma&perline=4" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <h2>📈 Engineering Metrics</h2>
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=codeforces&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <br/><br/>
+  
+  ### ─── ⋆⋅☆⋅⋆ ───
 </div>
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rakharizki&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_border=true" height="180px" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=rakharizki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakharizki&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_border=true" height="180px" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakharizki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakharizki&theme=transparent&stroke=0e75b6&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6&hide_border=true" width="95%" />
+</div>
+
+---
+
+## ⚡ Quick Snippets
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=rakharizki&theme=radical&no-bg=true&column=7" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>Building the web with passion at <b>IDN Boarding School</b>. I don't just write code; I craft digital experiences. Currently deep-diving into the world of Full-stack to bridge the gap between aesthetics and performance.</p>
+      <p>
+        🔹 <b>Currently:</b> Mastering Golang & Express.js architecture.<br/>
+        🔹 <b>Expertise:</b> UI/UX Consistency, Laravel, & Tailwind Wizardry.<br/>
+        🔹 <b>Goal:</b> Future CTO in the making.
+      </p>
+      <br/>
+      <div align="left">
+        <a href="https://linkedin.com/in/rakha-nurrahma-rizki-a7a45a248/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://medium.com/@rakharizki"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="mailto:babanrakha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🛠 My Arsenal</h3>
+      <img src="https://skillicons.dev/icons?i=js,php,go,nodejs,express,laravel,mysql,aws,tailwind,bootstrap,figma,git&perline=3" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 Creative Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakharizki&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✨ Coding Journey Snake</h3>
+  <img src="https://raw.githubusercontent.com/rakharizki/rakharizki/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <br/>
@@ -61,8 +76,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="left">
-        <img src="https://github-profile-trophy.vercel.app/?username=rakharizki&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15" />
+      <td align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400px" />
+      </td>
+      <td align="center">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=tokyonight" width="400px" />
       </td>
     </tr>
   </table>
@@ -71,13 +89,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=rakharizki&label=TOTAL+VISITORS&color=0e75b6&style=for-the-badge" />
 </div>
 
-<br/>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=rakharizki&label=EXPLORERS+REACHED&color=0e75b6&style=flat-square" />
-  <br/>
-  <sub><i>Last updated: 2026</i></sub>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
